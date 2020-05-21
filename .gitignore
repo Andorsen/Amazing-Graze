@@ -1,0 +1,11 @@
+# Default ignored files
+/.idea/workspace.xml
+
+
+# Custom ignores
+
+# Folders
+.idea
+
+# .iml files
+*.iml
