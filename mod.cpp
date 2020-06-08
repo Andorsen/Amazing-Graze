@@ -1,0 +1,12 @@
+name = "Amazing Graze - But by the Graze of God, it is what it is";
+picture = ""; //TODO: get a logo
+actionName = "GitHub";
+action = "https://github.com/Andorsen/Amazing-Graze";
+description = "Quality of life and other Divine gifts";
+logo = ""; //TODO: get a logo
+logoOver = ""; //TODO : get a logo
+tooltip = "AGZ Quality of Life mod";
+tooltipOwned = "AGZ Quality of Life mod Owned";
+overview = "AGZ Quality of Life mod";
+author = "Graze";
+overviewPicture = ""; //TODO: get a logo
